@@ -79,7 +79,7 @@ class MundiaCarsHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Mundia Cars Meriem Fennassi Ouaalani',
+          'Sara elhafyani',
           style: TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.w500,
@@ -130,7 +130,7 @@ class MundiaCarsHomePage extends StatelessWidget {
               'Luxe Drive',
               style: TextStyle(
                 fontFamily: 'Vintage',
-                fontSize: 34, 
+                fontSize: 34,
                 color: Colors.black87,
               ),
             ),
